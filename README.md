@@ -98,7 +98,9 @@ Isso permite uma visualização em tempo real do progresso, métricas e gestão 
 
 🔹Aplicação ToDo MVC
 
-🔹Navegador Web (Firefox)
+🔹Navegador Web (Opera)
+
+🔹  MIRO como ferramenta de gestão de ciclo de vida dos testes
 
 🔹Planilhas ou documentos para organização dos testes
 
