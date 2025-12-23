@@ -84,23 +84,13 @@ Isso permite uma visualização em tempo real do progresso, métricas e gestão 
 
 🔹Status (Aprovado ou Reprovado)
 
-🐞 Registro de Bugs
-
-🔹Os bugs encontrados foram documentados com:
-
-🔹Descrição do problema
-
-🔹Passos para reprodução
-
-🔹Resultado esperado x resultado atual
-
 🛠️ Ferramentas Utilizadas
 
-🔹Aplicação ToDo MVC
+🔹Aplicação TodoMVC
 
 🔹Navegador Web (Opera)
 
-🔹  MIRO como ferramenta de gestão de ciclo de vida dos testes
+🔹MIRO como ferramenta de gestão de ciclo de vida dos testes
 
 🔹Planilhas ou documentos para organização dos testes
 
