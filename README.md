@@ -27,7 +27,7 @@
 
 ## Documentação do Projeto (Live Dashboard)
 
-Toda a estratégia, planejamento e execução foram documentados em um Dashboard Interativo no MIRO*.
+Toda a estratégia, planejamento e execução foram documentados em um Dashboard Interativo no MIRO.
 Isso permite uma visualização em tempo real do progresso, métricas e gestão de defeitos.
 
 ### [ACESSE A ANÁLISE DOS REQUISITOS NO MIRO AQUI](https://miro.com/app/board/uXjVIDJs63s=/)
@@ -109,5 +109,5 @@ Isso permite uma visualização em tempo real do progresso, métricas e gestão 
 ## 👨‍💻 Sobre a Analista
 
 **Lucimara Nogueira**
-*QA focado em processos ágeis, organização, testes Manuais e Automatizados.*
+*QA focada em processos ágeis, organização, testes Manuais e Automatizados.*
 [LinkedIn](www.linkedin.com/in/lucimara-nogueira-de-albuquerque-026b64353)
