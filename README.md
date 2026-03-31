@@ -108,6 +108,6 @@ Isso permite uma visualização em tempo real do progresso, métricas e gestão 
 
 ## 👨‍💻 Sobre a Analista
 
-**Lucimara Nogueira**
-*QA focada em processos ágeis, organização, testes Manuais e Automatizados.*
+**Lucimara Nogueira de Albuquerque**
+*Software Engneer.*
 [LinkedIn](www.linkedin.com/in/lucimara-nogueira-de-albuquerque-026b64353)
