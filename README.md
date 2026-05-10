@@ -109,5 +109,5 @@ Isso permite uma visualização em tempo real do progresso, métricas e gestão 
 ## 👨‍💻 Sobre a Analista
 
 Lucimara Nogueira de Albuquerque: 
-*Software Engneer.*
+*Software Engineer.*
 [LinkedIn](www.linkedin.com/in/lucimara-nogueira-de-albuquerque-026b64353)
